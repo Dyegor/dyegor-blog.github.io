@@ -1,0 +1,53 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+main > .container {
+  padding: 60px 15px 0;
+}
+
+.navbar-brand {
+  margin-left: 1em;
+}
+
+#navbarCollapse {
+  width: 10%;
+}
+
+.linkContainer {
+  height: 200px;
+  background-color: #eabf9f;
+  overflow: hidden;
+  border-radius: 15px;
+}
+
+.linkContainer,
+.linkDetail {
+  min-width: 300px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.linkContent {
+  line-height: 200px;
+  text-align: center;
+  vertical-align: middle;
+  font-family: "Shanti", sans-serif;
+  font-size: 2.5rem;
+  text-shadow: 2px 2px 8px #000000;
+  color: white;
+  transition: 0.3s ease-in-out;
+}
+
+.lead { 
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+.main-page-header {
+  padding-top: 1em;
+}
+
+.container {
+  text-align: center;
+}
