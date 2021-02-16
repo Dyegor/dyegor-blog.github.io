@@ -14,6 +14,12 @@ main > .container {
   width: 10%;
 }
 
+.sprintItem {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 3em;
+}
+
 .linkContainer {
   height: 200px;
   background-color: #eabf9f;
@@ -23,12 +29,11 @@ main > .container {
 
 .linkContainer,
 .linkDetail {
-  min-width: 300px;
-  max-width: 600px;
-  margin: auto;
+  min-width: 20em;
+  max-width: 30em;
 }
 
-.linkContent {
+.linkContent a {
   line-height: 200px;
   text-align: center;
   vertical-align: middle;
