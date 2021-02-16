@@ -6,6 +6,12 @@ main > .container {
   padding: 60px 15px 0;
 }
 
+h2 {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 1.5rem;
+  opacity: 0.8;
+}
+
 .navbar-brand {
   margin-left: 1em;
 }
@@ -65,4 +71,23 @@ main > .container {
 .sprint2-tech-img {
   margin-top: 1em;
   margin-bottom: 2em;
+}
+
+.sprint2-core {
+  margin: 0 auto 4rem;
+  max-width: 800px;
+}
+
+.sprint2-core-container {
+  min-width: 300px;
+  max-width: 600px;
+  padding-top: 5em;
+  margin: auto;
+  text-align: justify;
+}
+
+.sprint2-core-body {
+  font-family: "Work Sans", sans-serif;
+  text-align: justify;
+  color: black;
 }
