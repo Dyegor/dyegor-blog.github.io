@@ -53,6 +53,16 @@ main > .container {
   padding-top: 1em;
 }
 
+.sprintsContainer {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .container {
   text-align: center;
+}
+
+.sprint2-tech-img {
+  margin-top: 1em;
+  margin-bottom: 2em;
 }
