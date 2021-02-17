@@ -6,6 +6,10 @@ main > .container {
   padding: 60px 15px 0;
 }
 
+h1 {
+  text-align: center;
+}
+
 h2 {
   font-family: "Fira Sans", sans-serif;
   font-size: 1.5rem;
@@ -73,12 +77,12 @@ h2 {
   margin-bottom: 2em;
 }
 
-.sprint2-core {
+.sprint-core {
   margin: 0 auto 4rem;
   max-width: 800px;
 }
 
-.sprint2-core-container {
+.sprint-core-container {
   min-width: 300px;
   max-width: 600px;
   padding-top: 5em;
@@ -86,7 +90,7 @@ h2 {
   text-align: justify;
 }
 
-.sprint2-core-body {
+.sprint-core-body {
   font-family: "Work Sans", sans-serif;
   text-align: justify;
   color: black;
