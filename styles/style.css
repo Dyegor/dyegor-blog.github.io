@@ -31,14 +31,7 @@ h2 {
   display: inline-block;
 }
 
-.sprintItem {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 3em;
-}
-
 .linkContainer {
-  height: 200px;
   background-color: #eabf9f;
   overflow: hidden;
   border-radius: 15px;
@@ -48,6 +41,7 @@ h2 {
 .linkDetail {
   min-width: 20em;
   max-width: 30em;
+  margin-left: 6em;
 }
 
 .linkContent a {
@@ -77,6 +71,12 @@ h2 {
 
 .container {
   text-align: center;
+}
+
+.sprintItem {
+  display: flex;
+  margin-left: 6em;
+  margin-bottom: 3em;
 }
 
 .sprint2-tech-img {
